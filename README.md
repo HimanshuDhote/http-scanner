@@ -13,3 +13,22 @@ Curl is a widely used command-line tool for making HTTP requests and transferrin
 Open a terminal and run the following command to install curl:
 
 `sudo apt-get install curl`
+
+# Red Hat-based distributions (e.g., CentOS, Fedora)
+Open a terminal and run the following command to install curl:
+
+`sudo dnf install curl`
+
+or
+
+`sudo yum install curl`
+
+# Arch-based distributions (e.g., Arch Linux)
+Open a terminal and run the following command to install curl:
+
+`sudo pacman -Sy curl`
+
+# SUSE-based distributions (e.g., openSUSE)
+Open a terminal and run the following command to install curl:
+
+`sudo zypper install curl`
