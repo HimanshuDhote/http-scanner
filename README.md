@@ -39,7 +39,7 @@ Follow these steps to run the shell scripts from this repository:
 
 * Clone the repository to your local machine using the following command:
 
-`git clone https://github.com/HimanshuDhote/http-scanner/blob/main/Http_Scanner.sh
+`git clone https://github.com/HimanshuDhote/http-scanner`
 
 * Change into the cloned repository's directory:
 
