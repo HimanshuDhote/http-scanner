@@ -39,18 +39,18 @@ Follow these steps to run the shell scripts from this repository:
 
 * Clone the repository to your local machine using the following command:
 
-`git clone https://github.com/HimanshuDhote/http-scanner`
+`git clone https://github.com/HimanshuDhote/http-scanner/blob/main/Http_Scanner.sh
 
 * Change into the cloned repository's directory:
 
-`cd http-scanner`
+`cd Http_Scanner`
 
 * Make the shell script executable by running the following command:
 
-`chmod +x http-scanner.sh`
+`chmod +x Http_Scanner.sh`
 
 * Run the shell script using the following command:
 
-`./http-scanner.sh`
+`./Http_Scanner.sh`
 
 
