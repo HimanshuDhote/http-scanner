@@ -35,7 +35,7 @@ Open a terminal and run the following command to install curl:
 
 # Useage
 
-`Follow these steps to run the shell scripts from this repository:`
+Follow these steps to run the shell scripts from this repository:
 
 * Clone the repository to your local machine using the following command:
 
@@ -43,8 +43,7 @@ Open a terminal and run the following command to install curl:
 
 * Change into the cloned repository's directory:
 
-
-cd http-scanner
+`cd http-scanner`
 
 * Make the shell script executable by running the following command:
 
