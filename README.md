@@ -11,4 +11,5 @@ Curl is a widely used command-line tool for making HTTP requests and transferrin
 
 # Debian-based distributions (e.g., Ubuntu, Debian)
 Open a terminal and run the following command to install curl:
+
 `sudo apt-get install curl`
