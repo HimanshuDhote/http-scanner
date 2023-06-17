@@ -32,3 +32,28 @@ Open a terminal and run the following command to install curl:
 Open a terminal and run the following command to install curl:
 
 `sudo zypper install curl`
+
+# Useage
+
+`Follow these steps to run the shell scripts from this repository:`
+
+1 Clone the repository to your local machine using the following command:
+
+`git clone https://github.com/HimanshuDhote/http-scanner`
+
+2 Change into the cloned repository's directory:
+
+
+cd http-scanner
+
+3 Make the shell script executable by running the following command:
+
+`chmod +x http-scanner.sh`
+
+Replace script.sh with the name of the shell script you want to execute.
+
+4 Run the shell script using the following command:
+
+`./http-scanner.sh`
+
+
